@@ -1,0 +1,12 @@
+name,ring,quadrant,isNew,description  
+Docker,adote,ferramentas,TRUE,"Obrigatório para aplicações que seguem nova arquitetura."
+Kubernetes,adote,ferramentas,TRUE,"Deve ser utilizado em conjunto com o Docker."
+Jenkins,adote,ferramentas,TRUE,"Ferramenta padrão para fazer CI/CD."
+Arquitetura Hexagonal,experimente,técnicas,FALSE,"O objetivo dessa arquitetura é o desenvolvimento de software com a menor quantidade possível de débito técnico."
+Lombok,experimente,linguagens & frameworks,FALSE,"Biblioteca Java que dimunui a quantidade de código e o deixa mais legível."
+Canary Release,avalie,técnicas,FALSE,"Por exemplo, faz deploy de uma nova versão para 10% da base de usuários. Se nada der errado, libera a versão para o restante dos usuários."
+Design Patterns para Microserviços,avalie,técnicas,FALSE,"Essa tema é muito importante pois sem o uso de boas práticas não é possível extrair vantagens no uso de microserviços."
+AWS S3,avalie,plataformas,TRUE,"Se trata do serviço de armazenamento da Amazon"  
+Java 11,avalie,linguagens & frameworks,FALSE,"Na versão 11 do JDK é possível usar novo recurso de modularização para melhor administrar os JARs da aplicação."
+JSF,evite,linguagens & frameworks,FALSE,"JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo."
+Weblogic,evite,ferramentas,TRUE,"Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes"
