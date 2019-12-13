@@ -8,62 +8,62 @@ Canary Release,avalie,técnicas,FALSE,Por exemplo faz deploy de uma nova versão
 Design Patterns para Microserviços,avalie,técnicas,FALSE,Essa tema é muito importante pois sem o uso de boas práticas não é possível extrair vantagens no uso de microserviços.
 AWS S3,avalie,plataformas,TRUE,Se trata do serviço de armazenamento da Amazon. Deve ser avaliado como possível solução de storage em nuvem.  
 Java,adote,linguagens & frameworks,FALSE,É a linguagem padrão para desenvolvimento de aplicações back-end.
-JSF,evite,linguagens & frameworks,FALSE,JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo.
-Weblogic,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Design Thinking,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Lean Kanban,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Metodologias Ágeis,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-TMForum,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-BPEL,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Spring Framework,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Node.js,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Kotlin,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Frontend (React.js Angular.js e Vue.js),evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Engenheiro de Dados,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Cientista de Dados,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Apache Kafka,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Feature Driven-Development (FDD),evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Test Driven Development (TDD),evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Cloud Computing (AWS - Azure – GCP),evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-InfraAsCode (Terraform – Ansible),evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-DevSecOps,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Machine Laerning,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Inteligencia Artificial,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Automoção de Testes,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Rede IoT,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Rede SDN (Software Defined Network),evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-VNF (Virtual Network Function),evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Rede Móvel (5G),evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Topologia Rede GPON,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-WIKI (Confluence),evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Jira,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Microsoft Sql Server,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Oracle Database,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Oracle PL SQL,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Microsoft .Net,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Java (5 - 6 - 7 - 8),evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-C,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Tibco BPM,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Visual Basic,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Angular,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Visual Basic,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-ASP .Net,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-SVN,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Bamboo,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Apache Maven,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Apache Ant,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Artifactory,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Swagger,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Elastic Stack,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Mongo DB,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Elasticsearch,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Data Lake,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Spring Boot,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Open APIs,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Angular.js,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-React.js,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Gitlab,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Git,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Gradle,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-NPM,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Sonartype Nexus,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+JSF,adote,linguagens & frameworks,FALSE,JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo.
+Weblogic,adote,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Design Thinking,adote,ferramentas,FALSE,Exercício que serve para criar soluções por meio da formulação e validação de hipóteses. Deve ser avaliado
+Lean Kanban,adote,ferramentas,FALSE,Técnica utilizada para controlar o work in progress (WIP) e otimizar o fluxo de desenvolvimento do software. Deve ser experimentado como ferramenta para potencializar o desempenho de projetos que utilizam uma abordagem ágil.
+Metodologias Ágeis,adote,ferramentas,FALSE,Metodologia utilizada para gestão de projetos onde há pouco conhecimento sobre o escopo e risco. Deve ser adotado quando o objetivo é fazer entregas rápidas e iterativas com objetivo de colher feedback.
+TMForum,adote,ferramentas,FALSE,Conjunto de frameworks que oferece um padrão para a estrutura dos ativos e serviços de uma empresa de telecomunicação. Deve ser adotado para garantir conformidade com os padrões da indústria.
+BPEL,adote,ferramentas,FALSE,Padrão para implementação de soluções em BPM. Deve ser avaliado em qual contexto de negócio essa solução se aplica. 
+Spring Framework,evite,linguagens & frameworks,FALSE,Framework de desenvolvimento de software em Java.
+Node.js,evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Kotlin,evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Frontend (React.js Angular.js e Vue.js),evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Engenheiro de Dados,evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Cientista de Dados,evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Apache Kafka,evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Feature Driven-Development (FDD),evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Test Driven Development (TDD),evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Cloud Computing (AWS - Azure – GCP),evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+InfraAsCode (Terraform – Ansible),evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+DevSecOps,evite,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Machine Laerning,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Inteligencia Artificial,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Automoção de Testes,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Rede IoT,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Rede SDN (Software Defined Network),avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+VNF (Virtual Network Function),avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Rede Móvel (5G),avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Topologia Rede GPON,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+WIKI (Confluence),avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Jira,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Microsoft Sql Server,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Oracle Database,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Oracle PL SQL,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Microsoft .Net,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Java (5 - 6 - 7 - 8),avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+C,avalie,plataformas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Tibco BPM,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Visual Basic,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Angular,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Visual Basic,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+ASP .Net,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+SVN,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Bamboo,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Apache Maven,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Apache Ant,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Artifactory,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Swagger,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Elastic Stack,experimente,técnicas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Mongo DB,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Elasticsearch,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Data Lake,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Spring Boot,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Open APIs,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Angular.js,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+React.js,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Gitlab,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Git,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Gradle,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+NPM,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Sonartype Nexus,avalie,linguagens & frameworks,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
