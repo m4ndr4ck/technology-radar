@@ -1,69 +1,12 @@
-name,ring,quadrant,isNew,description  
+name,ring,quadrant,isNew,description
 Docker,adote,ferramentas,TRUE,Tecnologia de contêiner para desenvolvimento de aplicações nativas para nuvem. Deve ser utilizado principalmente para aplicações baseadas em microserviços.
 Kubernetes,adote,ferramentas,TRUE,Oquestrador para administrações de contêineres. Deve ser utilizado em conjunto com o Docker.
 Jenkins,adote,ferramentas,TRUE,Ferramenta padrão para fazer CI/CD. É utilizador aplicações que fazem uso de práticas DevOps.
 Arquitetura Hexagonal,experimente,técnicas,FALSE,O objetivo dessa arquitetura é o desenvolvimento de software com a menor quantidade possível de débito técnico.
 Lombok,experimente,linguagens & frameworks,FALSE,Biblioteca Java que dimunui a quantidade de código e o deixa mais legível.
-Canary Release,avalie,técnicas,FALSE,Por exemplo, faz deploy de uma nova versão para 10% da base de usuários. Se nada der errado, libera a versão para o restante dos usuários.
+Canary Release,avalie,técnicas,FALSE,Por exemplo faz deploy de uma nova versão para 10% da base de usuários. Se nada der errado, libera a versão para o restante dos usuários.
 Design Patterns para Microserviços,avalie,técnicas,FALSE,Essa tema é muito importante pois sem o uso de boas práticas não é possível extrair vantagens no uso de microserviços.
 AWS S3,avalie,plataformas,TRUE,Se trata do serviço de armazenamento da Amazon. Deve ser avaliado como possível solução de storage em nuvem.  
 Java,adote,linguagens & frameworks,FALSE,É a linguagem padrão para desenvolvimento de aplicações back-end.
 JSF,evite,linguagens & frameworks,FALSE,JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo.
-Weblogic,evite,ferramentas,TRUE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Design Thinking,experimente,técnicas,TRUE,Exercício que serve para criar soluções por meio da formulação e validação de hipóteses. Deve ser avaliado
-Lean Kanban,experimente,técnicas,TRUE,Técnica utilizada para controlar o work in progress (WIP) e otimizar o fluxo de desenvolvimento do software. Deve ser experimentado como ferramenta para potencializar o desempenho de projetos que utilizam uma abordagem ágil.
-Metodologias Ágeis,adote,técnicas,TRUE,Metodologia utilizada para gestão de projetos onde há pouco conhecimento sobre o escopo e risco. Deve ser adotado quando o objetivo é fazer entregas rápidas e iterativas com objetivo de colher feedback.
-TMForum,adote,técnicas,TRUE,Conjunto de frameworks que oferece um padrão para a estrutura dos ativos e serviços de uma empresa de telecomunicação. Deve ser adotado para garantir conformidade com os padrões da indústria.
-BPEL,avalie,ferramentas,TRUE,Padrão para implementação de soluções em BPM. Deve ser avaliado em qual contexto de negócio essa solução se aplica. 
-Spring Framework,experimente,linguagens & frameworks,TRUE,Framework de desenvolvimento de software. Deve ser experimentado no desenvolvimento de micro-serviços.
-Node.js,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Kotlin,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Frontend (React.js, Angular.js e Vue.js),avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Engenheiro de Dados,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Cientista de Dados,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Apache Kafka,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Feature Driven-Development (FDD),avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Test Driven Development (TDD),avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Cloud Computing (AWS, Azure, GCP),avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-InfraAsCode (Terraform, Ansible, etc),avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-DevSecOps,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Machine Laerning,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Inteligencia Artificial,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Automoção de Testes,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Rede IoT,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Rede SDN (Software Defined Network),avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-VNF (Virtual Network Function),avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Rede Móvel (5G),avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Topologia Rede GPON,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-WIKI (Confluence),avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Jira,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Microsoft Sql Server,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Oracle Database,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Oracle PL SQL,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Microsoft .Net,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Java (5, 6, 7, 8),avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-C,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Tibco BPM,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Visual Basic,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Angular,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Visual Basic,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-ASP .Net,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-SVN,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Bamboo,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Apache Maven,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Apache Ant,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Artifactory,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Swagger,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Elastic Stack,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Mongo DB,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Elasticsearch,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Data Lake,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Spring Boot,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Open APIs,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Angular.js,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-React.js,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Gitlab,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Git,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Gradle,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-NPM,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Sonartype Nexus,avalie,linguagens & frameworks,TRUE,Interpretador para execução de código JavaScript. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
+Weblogic,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
