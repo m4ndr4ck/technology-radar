@@ -10,8 +10,8 @@ AWS S3,avalie,plataformas,TRUE,Se trata do serviço de armazenamento da Amazon. 
 Java,adote,linguagens & frameworks,FALSE,É a linguagem padrão para desenvolvimento de aplicações back-end dentro da Telefônica.
 JSF,evite,linguagens & frameworks,FALSE,JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo.
 Weblogic,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Design Thinking,adote,ferramentas,FALSE,Exercício que serve para criar soluções por meio da formulação e validação de hipóteses. Deve ser avaliado como técnica para elaboração de soluções com cunho inovador.
-Lean Kanban,adote,ferramentas,FALSE,Técnica utilizada para controlar o work in progress (WIP) e otimizar o fluxo de desenvolvimento do software. Deve ser experimentado como ferramenta para potencializar o desempenho de projetos que utilizam uma abordagem ágil.
+Design Thinking,experimente,ferramentas,FALSE,Exercício que serve para criar soluções por meio da formulação e validação de hipóteses. Deve ser avaliado como técnica para elaboração de soluções com cunho inovador.
+Lean Kanban,experimente,ferramentas,FALSE,Técnica utilizada para controlar o work in progress (WIP) e otimizar o fluxo de desenvolvimento do software. Deve ser experimentado como ferramenta para potencializar o desempenho de projetos que utilizam uma abordagem ágil.
 Metodologias Ágeis,adote,ferramentas,FALSE,Metodologia utilizada para gestão de projetos onde há pouco conhecimento sobre o escopo e risco. Deve ser adotado quando o objetivo é fazer entregas rápidas e iterativas com objetivo de colher feedback rápido.
 TMForum,adote,ferramentas,FALSE,Conjunto de frameworks que oferece um padrão para a estrutura dos ativos e serviços de uma empresa de telecomunicação. Deve ser adotado para garantir conformidade com os padrões da indústria.
 BPEL,adote,ferramentas,FALSE,Padrão para implementação de soluções em BPM. Deve ser avaliado em qual contexto de negócio essa solução se aplica. 
@@ -51,11 +51,11 @@ C,avalie,linguagens & frameworks,FALSE,O uso da linguagem C deve ser pontual e e
 Tibco BPM,experimente,ferramentas,FALSE,Ferramenta de BPM que deve ser avaliada se o seu uso traz benefícios para o gerenciamento dos processos de negócio da organização.
 Visual Basic,experimente,linguagens & frameworks,FALSE,Framework de desenvolvimento de Microsoft. Deve ser evitado pois não funciona direito caso não seja integrado com todo o stack de tecnologias da Microsoft.
 ASP .Net,experimente,linguagens & frameworks,FALSE,Framework de desenvolvimento de Microsoft. Deve ser evitado pois não funciona direito caso não seja integrado com todo o stack de tecnologias da Microsoft.
-SVN,experimente,ferramentas,FALSE,Protocolo para versionamento centralizado de código. Deve ser evitado em favor do Git.
+SVN,evite,ferramentas,FALSE,Protocolo para versionamento centralizado de código. Deve ser evitado em favor do Git.
 Bamboo,evite,ferramentas,FALSE,Orquestrador de build e automizador de tarefas. Ferramenta que deve ser evitada em favor do Jenkins.
 Apache Maven,experimente,ferramentas,FALSE,Ferramenta para gerenciamento de dependências de aplicações Java. Já é utilizado e seu uso deve ser adotado no desenvolvimento de novas aplicações.
-Apache Ant,experimente,ferramentas,FALSE,Ferramenta para gerenciamento de dependências de aplicações Java. Já é utilizado em algumas aplicações porém seu uso deve ser etivado em favor do Apache Maven.
-Artifactory,experimente,ferramentas,FALSE,Repositório de artefatos que já é utilizado dentro da organização. Seu uso deve ser evitado em favor do Sonatype Nexus.
+Apache Ant,evite,ferramentas,FALSE,Ferramenta para gerenciamento de dependências de aplicações Java. Já é utilizado em algumas aplicações porém seu uso deve ser etivado em favor do Apache Maven.
+Artifactory,evite,ferramentas,FALSE,Repositório de artefatos que já é utilizado dentro da organização. Seu uso deve ser evitado em favor do Sonatype Nexus.
 Swagger,experimente,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
 Mongo DB,avalie,ferramentas,FALSE,Base de dados não relacional que visa performace e estabilidade. Se uso deve ser adotado para aplicações de microserviço.
 ELK,adote,ferramentas,FALSE,Suite de ferramentas que permitem a pesquisa rápida que suporta o uso de filtros complexos. Já é utilizada dentro da organização e seu uso deve ser ainda mais difundido.
