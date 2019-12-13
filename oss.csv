@@ -4,8 +4,8 @@ Kubernetes,adote,ferramentas,TRUE,Oquestrador para administrações em larga de 
 Jenkins,adote,ferramentas,TRUE,Ferramenta padrão da Telefônica para fazer CI/CD. É utilizado em aplicações OSS que fazem uso de práticas DevOps.
 Arquitetura Hexagonal,adote,técnicas,FALSE,O objetivo dessa arquitetura é o desenvolvimento de software com a menor quantidade possível de débito técnico.
 Lombok,experimente,linguagens & frameworks,FALSE,Biblioteca Java que diminui a quantidade de código e o deixa mais legível.
-Canary Release,avalie,técnicas,FALSE,Técnica que permite liberar uma nova versão da aplicação somente para uma parcela de usuários. Se nada der errado então a nova versão é disponibilizada progressivamente para o restante dos usuários. 
-Design Patterns para Microserviços,avalie,técnicas,FALSE,Essa tema é muito importante pois sem o uso de boas práticas não é possível extrair vantagens no uso de microserviços.
+Canary Release,experimente,técnicas,FALSE,Técnica que permite liberar uma nova versão da aplicação somente para uma parcela de usuários. Se nada der errado então a nova versão é disponibilizada progressivamente para o restante dos usuários. 
+Design Patterns para Microserviços,experimente,técnicas,FALSE,Essa tema é muito importante pois sem o uso de boas práticas não é possível extrair vantagens no uso de microserviços.
 AWS S3,avalie,plataformas,TRUE,Se trata do serviço de armazenamento da Amazon. Deve ser avaliado como possível solução de storage em nuvem.  
 Java,adote,linguagens & frameworks,FALSE,É a linguagem padrão para desenvolvimento de aplicações back-end dentro da Telefônica.
 JSF,evite,linguagens & frameworks,FALSE,JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo.
@@ -21,7 +21,7 @@ Kotlin,avalie,linguagens & frameworks,FALSE,Linguagem baseada na JVM voltada par
 Angular CLI,adote,linguagens & frameworks,FALSE,É o framework frontend padrão utilizado atualmente pelas aplicações de OSS.
 React.js e Vue.js,avalie,linguagens & frameworks,FALSE,Devem ser avaliados como alternativas para frameworks de desenvolvimento frontend.
 Engenheiro de Dados,avalie,técnicas,FALSE,Função responsável por definir e construir os mecanimos pelos quais dados brutos de uma organização serão filtrados para gerar informação de valor para o negócio. Deve ser avaliado para atividades relacionadas ao data lake.
-Cientista de Dados,evite,técnicas,FALSE,Função responsável por desenvolver os algorítimos utilizados para extrair informação de valor a partir de dados brutos ou já processados. Deve ser avaliado para atividades relacionadas ao data lake.
+Cientista de Dados,avalie,técnicas,FALSE,Função responsável por desenvolver os algorítimos utilizados para extrair informação de valor a partir de dados brutos ou já processados. Deve ser avaliado para atividades relacionadas ao data lake.
 Apache Kafka,experimente,linguagens & frameworks,FALSE,Ferramenta utilizada para processamento de stream de dados. Deve ser avaliada como tecnologia para possibilitar a manipulação de dados em tempo real.
 Feature Driven-Development (FDD),avalie,técnicas,FALSE,É definido como um modelo iterativo e ágil para o desenvolvimento de software com uma orientação muito forte em funcionalidades. Deve ser avaliado com cautela onde isso pode ser aplicado no contexto de OSS.
 Test Driven Development (TDD),avalie,técnicas,FALSE,Prática de desenvolvimento totalmente orientada a testes, tudo que é feito tem sempre como ponto de partida os testes. Deve ser avaliado se pode ser utilizado em algum contexto de OSS.
@@ -31,7 +31,7 @@ GCP,avalie,plataformas,FALSE,Plafaforma de computação em nuvem da Google. Poss
 Terraform,avalie,ferramentas,FALSE,Tecnologia que ajuda a criar soluções de infra estrutura como código. Deve ser avaliado pois pode ajudar a melhorar a produtividade na administrações dos ambientes de OSS.
 Ansible,adote,ferramentas,FALSE,Ferramenta de automação de tarefas em servidores. Já é utilizada bastante em ativiades de OSS em QA.
 DevSecOps,experimente,linguagens & frameworks,FALSE,Conjunto de práticas que incorpora validações de segurança nos pipelines de CI/CD já utilizados no DevOps.
-Machine Laerning,avalie,técnicas,FALSE,Se trata da capacidade do computador aprender com seu erros, adquirir novas habilidades e aprimorar seu próprio algorítimo. Deve ser avaliado como técnica para potencializar a qualidade do software de OSS.
+Machine Learning,experimente,técnicas,FALSE,Se trata da capacidade do computador aprender com seu erros, adquirir novas habilidades e aprimorar seu próprio algorítimo. Deve ser avaliado como técnica para potencializar a qualidade do software de OSS.
 Inteligencia Artificial,avalie,técnicas,FALSE,Ramo do conhecimento que visa emular o processo de inteligência humana dentro de uma máquina. Deve ser avaliado em que áreas de OSS o uso da Inteligência Artifical faria sentido.
 Automoção de Testes,adote,técnicas,FALSE,Técnica que deve ser incorporada de ponto-a-ponto para reduzir ao máximo a intervenção manual na execução dos testes dos softwares de OSS.
 Rede IoT,avalie,plataformas,FALSE,Com o advento da internet 5G a rede da internet das coisas (IoT) tende a crescer cada vez mais. O uso e o impacto disso em relação ao desenvolvimento do software de OSS deve ser avaliado.
