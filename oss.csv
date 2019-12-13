@@ -1,70 +1,70 @@
-name;ring;quadrant;isNew;description
-Docker;adote;ferramentas;TRUE;Tecnologia de contêiner para desenvolvimento de aplicações nativas para nuvem. Deve ser utilizado principalmente para aplicações baseadas em microserviços.
-Kubernetes;adote;ferramentas;TRUE;Oquestrador para administrações em larga de escala de contêineres. Deve ser utilizado em conjunto com o Docker.
-Jenkins;adote;ferramentas;TRUE;Ferramenta padrão da Telefônica para fazer CI/CD. É utilizado em aplicações OSS que fazem uso de práticas DevOps.
-Arquitetura Hexagonal;experimente;técnicas;FALSE;O objetivo dessa arquitetura é o desenvolvimento de software com a menor quantidade possível de débito técnico.
-Lombok;experimente;linguagens & frameworks;FALSE;Biblioteca Java que diminui a quantidade de código e o deixa mais legível.
-Canary Release;avalie;técnicas;FALSE;Técnica que permite liberar uma nova versão da aplicação somente para uma parcela de usuários. Se nada der errado então a nova versão é disponibilizada progressivamente para o restante dos usuários. 
-Design Patterns para Microserviços;avalie;técnicas;FALSE;Essa tema é muito importante pois sem o uso de boas práticas não é possível extrair vantagens no uso de microserviços.
-AWS S3;avalie;plataformas;TRUE;Se trata do serviço de armazenamento da Amazon. Deve ser avaliado como possível solução de storage em nuvem.  
-Java;adote;linguagens & frameworks;FALSE;É a linguagem padrão para desenvolvimento de aplicações back-end dentro da Telefônica.
-JSF;evite;linguagens & frameworks;FALSE;JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo.
-Weblogic;evite;ferramentas;FALSE;Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Design Thinking;adote;ferramentas;FALSE;Exercício que serve para criar soluções por meio da formulação e validação de hipóteses. Deve ser avaliado como técnica para elaboração de soluções com cunho inovador.
-Lean Kanban;adote;ferramentas;FALSE;Técnica utilizada para controlar o work in progress (WIP) e otimizar o fluxo de desenvolvimento do software. Deve ser experimentado como ferramenta para potencializar o desempenho de projetos que utilizam uma abordagem ágil.
-Metodologias Ágeis;adote;ferramentas;FALSE;Metodologia utilizada para gestão de projetos onde há pouco conhecimento sobre o escopo e risco. Deve ser adotado quando o objetivo é fazer entregas rápidas e iterativas com objetivo de colher feedback rápido.
-TMForum;adote;ferramentas;FALSE;Conjunto de frameworks que oferece um padrão para a estrutura dos ativos e serviços de uma empresa de telecomunicação. Deve ser adotado para garantir conformidade com os padrões da indústria.
-BPEL;adote;ferramentas;FALSE;Padrão para implementação de soluções em BPM. Deve ser avaliado em qual contexto de negócio essa solução se aplica. 
-Spring Framework;adote;linguagens & frameworks;FALSE;Framework que reune diversos mecanismos para desenvolvimento de aplicações em Java. Já é utilizado no desenvolvimento de aplicações OSS.
-Node.js;avalie;linguagens & frameworks;FALSE;Interpretador de código JavaScript do lado do servidor. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
-Kotlin;avalie;linguagens & frameworks;FALSE;Linguagem baseada na JVM voltada para o desenvolvimento enxuto com economia em linhas de código. Deve ser avalida para o desenvolvimento de aplicações com baixa criticidade.
-Angular CLI;adote;linguagens & frameworks;FALSE;É o framework frontend padrão utilizado atualmente pelas aplicações de OSS.
-React.js e Vue.js;avalie;linguagens & frameworks;FALSE;Devem ser avaliados como alternativas para frameworks de desenvolvimento frontend.
-Engenheiro de Dados;avalie;técnicas;FALSE;Função responsável por definir e construir os mecanimos pelos quais dados brutos de uma organização serão filtrados para gerar informação de valor para o negócio. Deve ser avaliado para atividades relacionadas ao data lake.
-Cientista de Dados;evite;técnicas;FALSE;Função responsável por desenvolver os algorítimos utilizados para extrair informação de valor a partir de dados brutos ou já processados. Deve ser avaliado para atividades relacionadas ao data lake.
-Apache Kafka;experimente;linguagens & frameworks;FALSE;Ferramenta utilizada para processamento de stream de dados. Deve ser avaliada como tecnologia para possibilitar a manipulação de dados em tempo real.
-Feature Driven-Development (FDD);avalie;técnicas;FALSE;É definido como um modelo iterativo e ágil para o desenvolvimento de software com uma orientação muito forte em funcionalidades. Deve ser avaliado com cautela onde isso pode ser aplicado no contexto de OSS.
-Test Driven Development (TDD);avalie;técnicas;FALSE;Prática de desenvolvimento totalmente orientada a testes, tudo que é feito tem sempre como ponto de partida os testes. Deve ser avaliado se pode ser utilizado em algum contexto de OSS.
-Azure;avalie;plataformas;FALSE;Plataforma de computação em nuvem da Microsoft. Pode ser avaliado se algum serviço se encaixa em alguma necessidade de OSS.
-AWS;experimente;plataformas;FALSE;Plataforma de computação em nuvem da Amazon. Líder do mercado e com o portfólio de serviços mais robusto, deve ser experimentado como alternativa para migrar parte das aplicações de OSS para a nuvem.
-GCP;avalie;plataformas;FALSE;Plafaforma de computação em nuvem da Google. Possui quase todos os mesmos recursos que as outras plataformas tem, deve ser avaliado se possui algum serviço que se encaixa em alguma necessidade de OSS.
-Terraform;avalie;ferramentas;FALSE;Tecnologia que ajuda a criar soluções de infra estrutura como código. Deve ser avaliado pois pode ajudar a melhorar a produtividade na administrações dos ambientes de OSS.
-Ansible;adote;ferramentas;FALSE;Ferramenta de automação de tarefas em servidores. Já é utilizada bastante em ativiades de OSS em QA.
-DevSecOps;experimente;linguagens & frameworks;FALSE;Conjunto de práticas que incorpora validações de segurança nos pipelines de CI/CD já utilizados no DevOps.
-Machine Laerning;avalie;técnicas;FALSE;Se trata da capacidade do computador aprender com seu erros, adquirir novas habilidades e aprimorar seu próprio algorítimo. Deve ser avaliado como técnica para potencializar a qualidade do software de OSS.
-Inteligencia Artificial;avalie;técnicas;FALSE;Ramo do conhecimento que visa emular o processo de inteligência humana dentro de uma máquina. Deve ser avaliado em que áreas de OSS o uso da Inteligência Artifical faria sentido.
-Automoção de Testes;experimente;técnicas;FALSE;Técnica que deve ser incorporada de ponto-a-ponto para reduzir ao máximo a intervenção manual na execução dos testes dos softwares de OSS.
-Rede IoT;avalie;plataformas;FALSE;Com o advento da internet 5G a rede da internet das coisas (IoT) tende a crescer cada vez mais. O uso e o impacto disso em relação ao desenvolvimento do software de OSS deve ser avaliado.
-Rede SDN (Software Defined Network);avalie;técnicas;FALSE;Gerenciamento de rede voltado completamente paraa  organização virtualizada de toda a infraestrutura de rede, sem necessidade manipulação física dos ativos de rede.
-VNF (Virtual Network Function);avalie;técnicas;FALSE;Se trata da virtualização de ativos físicos de uma rede. Deve ser avaliado como prática para diminuir a complexidade na manipulação dos ativos de rede uma telco.
-Rede Móvel (5G);avalie;plataformas;FALSE;Última geração em rede móvel que permite tráfego de dados em bandas maiores. Tecnologia que vai potencializar ainda mais o uso da internet. Sua adoção pela sociedade deve ser avaliada como oportunidade para os trabalhos de desenvolvimento em OSS.
-Topologia Rede GPON;adote;plataformas;FALSE;Tecnologia de rede em fibra ótica utilizada atualmente pela organização. Seu uso deve ser expandido na medida que redes legadas deixam de ser utilizadas.
-WIKI (Confluence);adote;ferramentas;FALSE;Sistema de Wiki utilizado atualmente pela organização. Documentação, tutorias e informações relevantes devem se colocadas lá.
-Jira;adote;ferramentas;FALSE;Ferramenta para gerenciamento de demandas e projetos. É utilizada internamente e também em conjunto com as fábricas.
-Microsoft SQL Server;evite;ferramentas;FALSE;Apesar de algumas aplicações utilizarem SQL Server essa tecnologia não é recomendado para novos desenvolvimentos.
-Oracle Database;adote;ferramentas;FALSE;É a tecnologia padrão quando a necessidade é uma base de dados relacional que seja robusta e confiável. Já é utilizada aplamente dentro da organização.
-Oracle PL SQL;adote;linguagens & frameworks;FALSE;Linguagem utilizada para manipular os dados dentro de um base de dados. Já é utilizada amplamente dentro da organização.
-Microsoft .Net;evite;linguagens & frameworks;FALSE;Framework de desenvolvimento de Microsoft. Deve ser evitado pois não funciona direito caso não seja integrado com todo o stack de tecnologias da Microsoft.
-Java (5 - 6 - 7 );evite;linguagens & frameworks;FALSE;Essas versões já não possuem ou possuem suporte limitado da Oracle. Além de estarém obsoletas. Por isso devem ser evitadas.
-Java (8 e 11);adote;linguagens & frameworks;FALSE;São versões estáveis e modernas do Java. Devem ser utilizadas sempre que possível.
-C;avalie;linguagens & frameworks;FALSE;O uso da linguagem C deve ser pontual e em casos específicos.
-Tibco BPM;experimente;ferramentas;FALSE;Ferramenta de BPM que deve ser avaliada se o seu uso traz benefícios para o gerenciamento dos processos de negócio da organização.
-Visual Basic;experimente;linguagens & frameworks;FALSE;Framework de desenvolvimento de Microsoft. Deve ser evitado pois não funciona direito caso não seja integrado com todo o stack de tecnologias da Microsoft.
-ASP .Net;experimente;linguagens & frameworks;FALSE;Framework de desenvolvimento de Microsoft. Deve ser evitado pois não funciona direito caso não seja integrado com todo o stack de tecnologias da Microsoft.
-SVN;experimente;ferramentas;FALSE;Protocolo para versionamento centralizado de código. Deve ser evitado em favor do Git.
-Bamboo;evite;ferramentas;FALSE;Orquestrador de build e automizador de tarefas. Ferramenta que deve ser evitada em favor do Jenkins.
-Apache Maven;experimente;ferramentas;FALSE;Ferramenta para gerenciamento de dependências de aplicações Java. Já é utilizado e seu uso deve ser adotado no desenvolvimento de novas aplicações.
-Apache Ant;experimente;ferramentas;FALSE;Ferramenta para gerenciamento de dependências de aplicações Java. Já é utilizado em algumas aplicações porém seu uso deve ser etivado em favor do Apache Maven.
-Artifactory;experimente;ferramentas;FALSE;Repositório de artefatos que já é utilizado dentro da organização. Seu uso deve ser evitado em favor do Sonatype Nexus.
-Swagger;experimente;ferramentas;FALSE;Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
-Mongo DB;avalie;ferramentas;FALSE;Base de dados não relacional que visa performace e estabilidade. Se uso deve ser adotado para aplicações de microserviço.
-ELK;adote;ferramentas;FALSE;Suite de ferramentas que permitem a pesquisa rápida que suporta o uso de filtros complexos. Já é utilizada dentro da organização e seu uso deve ser ainda mais difundido.
-Data Lake;experimente;técnicas;FALSE;Implementação de uma tecnologia que absorve, concentra e disponibiliza todos os dados de uma organização. Deve ser adotado como solução para abstrair o acesso de informações espalhadas em diferentes lugares da organização.
-Spring Boot;avalie;linguagens & frameworks;FALSE;Framework que permite o desenvolvimento rápido de aplicações Java através da abstração de detalhes de configuração. Deve ser adotado para tecnologia padrão para o desenvolvimento de micro-serviços.
-Open APIs;avalie;linguagens & frameworks;FALSE;Padrão de definição de contratos para APIs de aplicações RESTFul. Deve ser adotado como facilitador na comunicação de aplicações se comunicam via REST.
-Angular.js;evite;linguagens & frameworks;FALSE;Versão obsoleta do Angular que deve ser evitada. Em seu lugar deve ser utilizado o Angular CLI.
-Gitlab;adote;ferramentas;FALSE;Ferramenta construida em cima do Git que permite melhor administrar os repositórios de código da organização. É a ferramena padrão da organização para versionamento de código.
-Git;adote;ferramentas;FALSE;Protocolo para versionamento distribuido de código. Deve ser adotado como padrão dentro da organização.
-Gradle;avalie;ferramentas;FALSE;Ferramenta para gerenciamento de dependências de aplicações Java. Já é utilizado e seu uso deve ser avaliado com cautela pois o uso dessa tecnologia demanda uma curva de aprendizado.
-NPM;adote;ferramentas;FALSE;Ferramenta para gerenciamento de dependências de aplicações JavaScript. Já é utilizado no desenvolvimento de aplicações OSS.
-Sonartype Nexus;adote;ferramentas;FALSE;Repositório de artefatos que já é utilizado dentro da organização. Deve ser a ferramenta padrão para gerenciamento de artefatos.
+name,ring,quadrant,isNew,description
+Docker,adote,ferramentas,TRUE,Tecnologia de contêiner para desenvolvimento de aplicações nativas para nuvem. Deve ser utilizado principalmente para aplicações baseadas em microserviços.
+Kubernetes,adote,ferramentas,TRUE,Oquestrador para administrações em larga de escala de contêineres. Deve ser utilizado em conjunto com o Docker.
+Jenkins,adote,ferramentas,TRUE,Ferramenta padrão da Telefônica para fazer CI/CD. É utilizado em aplicações OSS que fazem uso de práticas DevOps.
+Arquitetura Hexagonal,experimente,técnicas,FALSE,O objetivo dessa arquitetura é o desenvolvimento de software com a menor quantidade possível de débito técnico.
+Lombok,experimente,linguagens & frameworks,FALSE,Biblioteca Java que diminui a quantidade de código e o deixa mais legível.
+Canary Release,avalie,técnicas,FALSE,Técnica que permite liberar uma nova versão da aplicação somente para uma parcela de usuários. Se nada der errado então a nova versão é disponibilizada progressivamente para o restante dos usuários. 
+Design Patterns para Microserviços,avalie,técnicas,FALSE,Essa tema é muito importante pois sem o uso de boas práticas não é possível extrair vantagens no uso de microserviços.
+AWS S3,avalie,plataformas,TRUE,Se trata do serviço de armazenamento da Amazon. Deve ser avaliado como possível solução de storage em nuvem.  
+Java,adote,linguagens & frameworks,FALSE,É a linguagem padrão para desenvolvimento de aplicações back-end dentro da Telefônica.
+JSF,evite,linguagens & frameworks,FALSE,JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo.
+Weblogic,evite,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Design Thinking,adote,ferramentas,FALSE,Exercício que serve para criar soluções por meio da formulação e validação de hipóteses. Deve ser avaliado como técnica para elaboração de soluções com cunho inovador.
+Lean Kanban,adote,ferramentas,FALSE,Técnica utilizada para controlar o work in progress (WIP) e otimizar o fluxo de desenvolvimento do software. Deve ser experimentado como ferramenta para potencializar o desempenho de projetos que utilizam uma abordagem ágil.
+Metodologias Ágeis,adote,ferramentas,FALSE,Metodologia utilizada para gestão de projetos onde há pouco conhecimento sobre o escopo e risco. Deve ser adotado quando o objetivo é fazer entregas rápidas e iterativas com objetivo de colher feedback rápido.
+TMForum,adote,ferramentas,FALSE,Conjunto de frameworks que oferece um padrão para a estrutura dos ativos e serviços de uma empresa de telecomunicação. Deve ser adotado para garantir conformidade com os padrões da indústria.
+BPEL,adote,ferramentas,FALSE,Padrão para implementação de soluções em BPM. Deve ser avaliado em qual contexto de negócio essa solução se aplica. 
+Spring Framework,adote,linguagens & frameworks,FALSE,Framework que reune diversos mecanismos para desenvolvimento de aplicações em Java. Já é utilizado no desenvolvimento de aplicações OSS.
+Node.js,avalie,linguagens & frameworks,FALSE,Interpretador de código JavaScript do lado do servidor. Deve ser avaliado como alternativa para desenvolvimento back-end com JavaScript.
+Kotlin,avalie,linguagens & frameworks,FALSE,Linguagem baseada na JVM voltada para o desenvolvimento enxuto com economia em linhas de código. Deve ser avalida para o desenvolvimento de aplicações com baixa criticidade.
+Angular CLI,adote,linguagens & frameworks,FALSE,É o framework frontend padrão utilizado atualmente pelas aplicações de OSS.
+React.js e Vue.js,avalie,linguagens & frameworks,FALSE,Devem ser avaliados como alternativas para frameworks de desenvolvimento frontend.
+Engenheiro de Dados,avalie,técnicas,FALSE,Função responsável por definir e construir os mecanimos pelos quais dados brutos de uma organização serão filtrados para gerar informação de valor para o negócio. Deve ser avaliado para atividades relacionadas ao data lake.
+Cientista de Dados,evite,técnicas,FALSE,Função responsável por desenvolver os algorítimos utilizados para extrair informação de valor a partir de dados brutos ou já processados. Deve ser avaliado para atividades relacionadas ao data lake.
+Apache Kafka,experimente,linguagens & frameworks,FALSE,Ferramenta utilizada para processamento de stream de dados. Deve ser avaliada como tecnologia para possibilitar a manipulação de dados em tempo real.
+Feature Driven-Development (FDD),avalie,técnicas,FALSE,É definido como um modelo iterativo e ágil para o desenvolvimento de software com uma orientação muito forte em funcionalidades. Deve ser avaliado com cautela onde isso pode ser aplicado no contexto de OSS.
+Test Driven Development (TDD),avalie,técnicas,FALSE,Prática de desenvolvimento totalmente orientada a testes, tudo que é feito tem sempre como ponto de partida os testes. Deve ser avaliado se pode ser utilizado em algum contexto de OSS.
+Azure,avalie,plataformas,FALSE,Plataforma de computação em nuvem da Microsoft. Pode ser avaliado se algum serviço se encaixa em alguma necessidade de OSS.
+AWS,experimente,plataformas,FALSE,Plataforma de computação em nuvem da Amazon. Líder do mercado e com o portfólio de serviços mais robusto, deve ser experimentado como alternativa para migrar parte das aplicações de OSS para a nuvem.
+GCP,avalie,plataformas,FALSE,Plafaforma de computação em nuvem da Google. Possui quase todos os mesmos recursos que as outras plataformas tem, deve ser avaliado se possui algum serviço que se encaixa em alguma necessidade de OSS.
+Terraform,avalie,ferramentas,FALSE,Tecnologia que ajuda a criar soluções de infra estrutura como código. Deve ser avaliado pois pode ajudar a melhorar a produtividade na administrações dos ambientes de OSS.
+Ansible,adote,ferramentas,FALSE,Ferramenta de automação de tarefas em servidores. Já é utilizada bastante em ativiades de OSS em QA.
+DevSecOps,experimente,linguagens & frameworks,FALSE,Conjunto de práticas que incorpora validações de segurança nos pipelines de CI/CD já utilizados no DevOps.
+Machine Laerning,avalie,técnicas,FALSE,Se trata da capacidade do computador aprender com seu erros, adquirir novas habilidades e aprimorar seu próprio algorítimo. Deve ser avaliado como técnica para potencializar a qualidade do software de OSS.
+Inteligencia Artificial,avalie,técnicas,FALSE,Ramo do conhecimento que visa emular o processo de inteligência humana dentro de uma máquina. Deve ser avaliado em que áreas de OSS o uso da Inteligência Artifical faria sentido.
+Automoção de Testes,experimente,técnicas,FALSE,Técnica que deve ser incorporada de ponto-a-ponto para reduzir ao máximo a intervenção manual na execução dos testes dos softwares de OSS.
+Rede IoT,avalie,plataformas,FALSE,Com o advento da internet 5G a rede da internet das coisas (IoT) tende a crescer cada vez mais. O uso e o impacto disso em relação ao desenvolvimento do software de OSS deve ser avaliado.
+Rede SDN (Software Defined Network),avalie,técnicas,FALSE,Gerenciamento de rede voltado completamente paraa  organização virtualizada de toda a infraestrutura de rede, sem necessidade manipulação física dos ativos de rede.
+VNF (Virtual Network Function),avalie,técnicas,FALSE,Se trata da virtualização de ativos físicos de uma rede. Deve ser avaliado como prática para diminuir a complexidade na manipulação dos ativos de rede uma telco.
+Rede Móvel (5G),avalie,plataformas,FALSE,Última geração em rede móvel que permite tráfego de dados em bandas maiores. Tecnologia que vai potencializar ainda mais o uso da internet. Sua adoção pela sociedade deve ser avaliada como oportunidade para os trabalhos de desenvolvimento em OSS.
+Topologia Rede GPON,adote,plataformas,FALSE,Tecnologia de rede em fibra ótica utilizada atualmente pela organização. Seu uso deve ser expandido na medida que redes legadas deixam de ser utilizadas.
+WIKI (Confluence),adote,ferramentas,FALSE,Sistema de Wiki utilizado atualmente pela organização. Documentação, tutorias e informações relevantes devem se colocadas lá.
+Jira,adote,ferramentas,FALSE,Ferramenta para gerenciamento de demandas e projetos. É utilizada internamente e também em conjunto com as fábricas.
+Microsoft SQL Server,evite,ferramentas,FALSE,Apesar de algumas aplicações utilizarem SQL Server essa tecnologia não é recomendado para novos desenvolvimentos.
+Oracle Database,adote,ferramentas,FALSE,É a tecnologia padrão quando a necessidade é uma base de dados relacional que seja robusta e confiável. Já é utilizada aplamente dentro da organização.
+Oracle PL SQL,adote,linguagens & frameworks,FALSE,Linguagem utilizada para manipular os dados dentro de um base de dados. Já é utilizada amplamente dentro da organização.
+Microsoft .Net,evite,linguagens & frameworks,FALSE,Framework de desenvolvimento de Microsoft. Deve ser evitado pois não funciona direito caso não seja integrado com todo o stack de tecnologias da Microsoft.
+Java (5 - 6 - 7 ),evite,linguagens & frameworks,FALSE,Essas versões já não possuem ou possuem suporte limitado da Oracle. Além de estarém obsoletas. Por isso devem ser evitadas.
+Java (8 e 11),adote,linguagens & frameworks,FALSE,São versões estáveis e modernas do Java. Devem ser utilizadas sempre que possível.
+C,avalie,linguagens & frameworks,FALSE,O uso da linguagem C deve ser pontual e em casos específicos.
+Tibco BPM,experimente,ferramentas,FALSE,Ferramenta de BPM que deve ser avaliada se o seu uso traz benefícios para o gerenciamento dos processos de negócio da organização.
+Visual Basic,experimente,linguagens & frameworks,FALSE,Framework de desenvolvimento de Microsoft. Deve ser evitado pois não funciona direito caso não seja integrado com todo o stack de tecnologias da Microsoft.
+ASP .Net,experimente,linguagens & frameworks,FALSE,Framework de desenvolvimento de Microsoft. Deve ser evitado pois não funciona direito caso não seja integrado com todo o stack de tecnologias da Microsoft.
+SVN,experimente,ferramentas,FALSE,Protocolo para versionamento centralizado de código. Deve ser evitado em favor do Git.
+Bamboo,evite,ferramentas,FALSE,Orquestrador de build e automizador de tarefas. Ferramenta que deve ser evitada em favor do Jenkins.
+Apache Maven,experimente,ferramentas,FALSE,Ferramenta para gerenciamento de dependências de aplicações Java. Já é utilizado e seu uso deve ser adotado no desenvolvimento de novas aplicações.
+Apache Ant,experimente,ferramentas,FALSE,Ferramenta para gerenciamento de dependências de aplicações Java. Já é utilizado em algumas aplicações porém seu uso deve ser etivado em favor do Apache Maven.
+Artifactory,experimente,ferramentas,FALSE,Repositório de artefatos que já é utilizado dentro da organização. Seu uso deve ser evitado em favor do Sonatype Nexus.
+Swagger,experimente,ferramentas,FALSE,Usar Weblogic somente quando realmente não for possível desenvolver a aplicação utilizando Docker e Kubernetes.
+Mongo DB,avalie,ferramentas,FALSE,Base de dados não relacional que visa performace e estabilidade. Se uso deve ser adotado para aplicações de microserviço.
+ELK,adote,ferramentas,FALSE,Suite de ferramentas que permitem a pesquisa rápida que suporta o uso de filtros complexos. Já é utilizada dentro da organização e seu uso deve ser ainda mais difundido.
+Data Lake,experimente,técnicas,FALSE,Implementação de uma tecnologia que absorve, concentra e disponibiliza todos os dados de uma organização. Deve ser adotado como solução para abstrair o acesso de informações espalhadas em diferentes lugares da organização.
+Spring Boot,avalie,linguagens & frameworks,FALSE,Framework que permite o desenvolvimento rápido de aplicações Java através da abstração de detalhes de configuração. Deve ser adotado para tecnologia padrão para o desenvolvimento de micro-serviços.
+Open APIs,avalie,linguagens & frameworks,FALSE,Padrão de definição de contratos para APIs de aplicações RESTFul. Deve ser adotado como facilitador na comunicação de aplicações se comunicam via REST.
+Angular.js,evite,linguagens & frameworks,FALSE,Versão obsoleta do Angular que deve ser evitada. Em seu lugar deve ser utilizado o Angular CLI.
+Gitlab,adote,ferramentas,FALSE,Ferramenta construida em cima do Git que permite melhor administrar os repositórios de código da organização. É a ferramena padrão da organização para versionamento de código.
+Git,adote,ferramentas,FALSE,Protocolo para versionamento distribuido de código. Deve ser adotado como padrão dentro da organização.
+Gradle,avalie,ferramentas,FALSE,Ferramenta para gerenciamento de dependências de aplicações Java. Já é utilizado e seu uso deve ser avaliado com cautela pois o uso dessa tecnologia demanda uma curva de aprendizado.
+NPM,adote,ferramentas,FALSE,Ferramenta para gerenciamento de dependências de aplicações JavaScript. Já é utilizado no desenvolvimento de aplicações OSS.
+Sonartype Nexus,adote,ferramentas,FALSE,Repositório de artefatos que já é utilizado dentro da organização. Deve ser a ferramenta padrão para gerenciamento de artefatos.
